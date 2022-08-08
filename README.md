@@ -1,2 +1,2 @@
-# HandwritingRecognition
-Recognize hand written text using matlab
+# Hand-to-text-recognition-matlab
+Hand to text recognition Using Matlab
